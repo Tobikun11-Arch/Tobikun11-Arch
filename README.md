@@ -1,4 +1,4 @@
-# 💫 About Me:
+<h1 align="center">Joenel Sevellejo</h1>
 I’m an aspiring software engineer with a passion for building scalable web applications and exploring new technologies. With experience in ReactJS, TypeScript, Next.js, Express.js, MongoDB, Firebase, Bootstrap and Tailwind, I love creating solutions that enhance user experiences. I'm continuously learning and growing in the field, aiming to develop applications that are not only functional but also user-friendly.
 
 
