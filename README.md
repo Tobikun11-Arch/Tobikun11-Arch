@@ -25,9 +25,9 @@
 
 <p>&nbsp;</p>  
 <div align="center"> 
-  <a href="https://github.com/Tobikun11-Arch"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tobikun11-Arch&theme=tokyonight"  width="60%"/>
+  <a href="https://github.com/Tobikun11-Arch"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tobikun11-Arch&theme=tokyonight"  width="70%"/>
        <a href="https://open.spotify.com/embed/track/5ocSQW5sIUIOFojwXEz9Ki?utm_source=generator" target="_blank">
-      <img src="https://now-playing-on-spotify.vercel.app/api/spotify" width="30%" alt="Spotify Now Playing"/>
+      <img src="https://now-playing-on-spotify.vercel.app/api/spotify" width="25%" alt="Spotify Now Playing"/>
     </a>
 </div>
   
