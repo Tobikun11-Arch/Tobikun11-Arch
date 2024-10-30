@@ -3,17 +3,6 @@
     <img src="https://github-widgetbox.vercel.app/api/profile?username=Tobikun11-Arch&data=followers,repositories,stars,commits&theme=viridescent">
   </a>
 </div>
-<div align="center">
-  <div style="display: flex; gap: 1rem; justify-content: center;">
-    <a href="https://open.spotify.com/embed/track/5ocSQW5sIUIOFojwXEz9Ki?utm_source=generator" target="_blank">
-      <img src="https://now-playing-on-spotify.vercel.app/api/spotify" width="40%" alt="Spotify Now Playing"/>
-    </a>
-    <a href="https://open.spotify.com/embed/track/5ocSQW5sIUIOFojwXEz9Ki?utm_source=generator" target="_blank">
-      <img src="https://now-playing-on-spotify.vercel.app/api/spotify" width="40%" alt="Spotify Now Playing"/>
-    </a>
-  </div>
-</div>
-
  
 # <p align="center">[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/Joenel11) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/https://www.linkedin.com/in/joenel-sevellejo-2919a7259/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://pinterest.com/joenelsevellejo831) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://reddit.com/user/TobiKun) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://tiktok.com/@tobikun11) </p>
 
@@ -36,7 +25,10 @@
 
 <p>&nbsp;</p>  
 <div align="center"> 
-  <a href="https://github.com/Tobikun11-Arch"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tobikun11-Arch&theme=tokyonight"  width="90%"/>
+  <a href="https://github.com/Tobikun11-Arch"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tobikun11-Arch&theme=tokyonight"  width="60%"/>
+       <a href="https://open.spotify.com/embed/track/5ocSQW5sIUIOFojwXEz9Ki?utm_source=generator" target="_blank">
+      <img src="https://now-playing-on-spotify.vercel.app/api/spotify" width="30%" alt="Spotify Now Playing"/>
+    </a>
 </div>
   
 <div>
