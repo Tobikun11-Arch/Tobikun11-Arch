@@ -1,3 +1,13 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=7A92B8&amp;height=100&amp;section=header">
+</div>
+<div align="center">
+  <a href="https://github.com/Rez4-3yz">
+    <img src="https://github-widgetbox.vercel.app/api/profile?username=Tobikun11-Arch&data=followers,repositories,stars,commits&theme=viridescent">
+  </a>
+</div>
+
+
 # <h1 align="center">Joenel Sevellejo</h1>
 # <p align="center">[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/Joenel11) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/https://www.linkedin.com/in/joenel-sevellejo-2919a7259/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://pinterest.com/joenelsevellejo831) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://reddit.com/user/TobiKun) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://tiktok.com/@tobikun11) </p>
 
