@@ -4,7 +4,7 @@
 # <p align="center">[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/Joenel11) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/https://www.linkedin.com/in/joenel-sevellejo-2919a7259/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://pinterest.com/joenelsevellejo831) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://reddit.com/user/TobiKun) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://tiktok.com/@tobikun11) </p>
 
 
-<p align="center"> I’m an aspiring software engineer with a passion for building scalable web applications and exploring new technologies. With experience in ReactJS, TypeScript, Next.js, Express.js, MongoDB, Firebase, Bootstrap and Tailwind, I love creating solutions that enhance user experiences. I'm continuously learning and growing in the field, aiming to develop applications that are not only functional but also user-friendly.  </p>
+<p align="center">Currently learning machine learning and aspiring to become an AI Engineer someday.</p>
 
 
 ## 💻 Tools & Technologies:
