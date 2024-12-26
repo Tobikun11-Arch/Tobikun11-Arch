@@ -54,8 +54,8 @@
 </div>
   
 <div>
-    <img alt="Tobikun11-Arch Github Stats" width="47%" src="https://github-readme-stats.vercel.app/api?username=Tobikun11-Arch&show_icons=true&theme=dracula&count_private=true&hide_border=true">
-    <img alt="Tobikun11-Arch GitHub Streak" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Tobikun11-Arch&theme=dracula&hide_border=true">
+<!--     <img alt="Tobikun11-Arch Github Stats" width="47%" src="https://github-readme-stats.vercel.app/api?username=Tobikun11-Arch&show_icons=true&theme=dracula&count_private=true&hide_border=true"> -->
+<!--     <img alt="Tobikun11-Arch GitHub Streak" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Tobikun11-Arch&theme=dracula&hide_border=true"> -->
 </div>
 
 
