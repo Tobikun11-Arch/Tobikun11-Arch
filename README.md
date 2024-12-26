@@ -36,20 +36,11 @@
 </div>
 
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
 
 <p>&nbsp;</p>  
 <div align="center"> 
   <a href="https://github.com/Tobikun11-Arch"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tobikun11-Arch&theme=tokyonight"  width="70%"/>
        <a href="https://open.spotify.com/embed/track/5ocSQW5sIUIOFojwXEz9Ki?utm_source=generator" target="_blank">
-      <img src="https://now-playing-on-spotify.vercel.app/api/spotify" width="25%" alt="Spotify Now Playing"/>
     </a>
 </div>
   
