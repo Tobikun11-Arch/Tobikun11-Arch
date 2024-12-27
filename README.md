@@ -38,15 +38,10 @@
 
 
 <p>&nbsp;</p>  
-<div align="center"> 
-  <a href="https://github.com/Tobikun11-Arch"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tobikun11-Arch&theme=tokyonight"  width="70%"/>
-       <a href="https://open.spotify.com/embed/track/5ocSQW5sIUIOFojwXEz9Ki?utm_source=generator" target="_blank">
-    </a>
-</div>
   
 <div>
-<!--     <img alt="Tobikun11-Arch Github Stats" width="47%" src="https://github-readme-stats.vercel.app/api?username=Tobikun11-Arch&show_icons=true&theme=dracula&count_private=true&hide_border=true"> -->
-<!--     <img alt="Tobikun11-Arch GitHub Streak" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Tobikun11-Arch&theme=dracula&hide_border=true"> -->
+    <img alt="Tobikun11-Arch Github Stats" width="47%" src="https://github-readme-stats.vercel.app/api?username=Tobikun11-Arch&show_icons=true&theme=dracula&count_private=true&hide_border=true">
+    <img alt="Tobikun11-Arch GitHub Streak" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Tobikun11-Arch&theme=dracula&hide_border=true">
 </div>
 
 
