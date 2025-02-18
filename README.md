@@ -7,12 +7,15 @@
 <p align="center">2nd yr BSIT student and I !hate codingg</p>
 
 
-## 💻 Tools & Technologies:
-<div style="display: inline_block">
-  <img align="center" alt="TypeScript" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Next.js" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
-  <img align="center" alt="MongoDB" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-  <img align="center" alt="Express.js" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
+## 💻 Technologies:
+<div style="display: inline_block; text-align: center;">
+  <img alt="TypeScript" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img alt="React" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img alt="Next.js" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+<img alt="Express.js" height="35" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/express.svg">
+  <img alt="Go" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
+  <img alt="MongoDB" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+  <img alt="MySQL" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
 
 
