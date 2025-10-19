@@ -19,12 +19,14 @@
   <img alt="PostgreSQL" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
 </div>
 
-
+ 
 
 <p>&nbsp;</p>  
 <div>
-    <img alt="Tobikun11-Arch Github Stats" width="47%" src="https://github-readme-stats.vercel.app/api?username=Tobikun11-Arch&show_icons=true&theme=dracula&count_private=true&hide_border=true">
-    <img alt="Tobikun11-Arch GitHub Streak" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Tobikun11-Arch&theme=dracula&hide_border=true">
+
+
+<!-- GitHub Activity Graph -->
+<img alt="Tobikun11-Arch Activity Graph" width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Tobikun11-Arch&theme=minimal&bg_color=ffffff&color=000000&line=000000&point=000000&radius=10" />
 </div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
