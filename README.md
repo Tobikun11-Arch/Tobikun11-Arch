@@ -1,16 +1,19 @@
+# Joenel Sevellejo
 
-# <p align="center">Software Developer</p>
- 
-# <p align="center">[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Joenel11) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joenel-sevellejo-2919a7259/) </p>
+<a href="https://joenelseve.vercel.app/"><img  src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge" alt="Portfolio Badge" /></a>
 
-## 💻 TechStack
-<div style="display: inline_block; text-align: center;">
-  <img alt="TypeScript" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img alt="React" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img alt="Next.js" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
-  <img alt="Express.js" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
-  <img alt="MongoDB" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-  <img alt="MySQL" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img alt="PostgreSQL" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img alt="Git" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-</div>
+**Software Developer || Indices Trader** 
+
+<hr></hr>
+
+**Tech Stack 💻**
+
+[![My Skills](https://skillicons.dev/icons?i=mongodb,express,react,nodejs,ts,tailwind,redux,java,nextjs,py)](https://skillicons.dev)
+
+**Tools 🛠️**
+
+[![My Skills](https://skillicons.dev/icons?i=git,npm,postman,vite,vscode,visualstudio,figma,github,notion,vercel,bash)](https://skillicons.dev)
+
+<hr></hr>
+
+<p> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tobikun11-Arch&theme=react&hide_border=false"> </p>
