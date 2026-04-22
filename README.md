@@ -8,11 +8,11 @@
 
 **Tech Stack 💻**
 
-[![My Skills](https://skillicons.dev/icons?i=mongodb,express,react,nodejs,ts,tailwind,redux,java,nextjs,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,express,react,nodejs,ts,tailwind,redux,java,nextjs,py,mysql,postgresql,go,supabase,jest)](https://skillicons.dev)
 
 **Tools 🛠️**
 
-[![My Skills](https://skillicons.dev/icons?i=git,npm,postman,vite,vscode,visualstudio,figma,github,notion,vercel,bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,npm,postman,obsidian,vscode,figma,github,notion,vercel,bash)](https://skillicons.dev)
 
 <hr></hr>
 
