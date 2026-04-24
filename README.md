@@ -8,7 +8,7 @@
 
 **Tech Stack 💻**
 
-[![My Skills](https://skillicons.dev/icons?i=mongodb,express,react,nodejs,ts,tailwind,redux,java,nextjs,py,mysql,postgresql,go,supabase,jest,nestjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,express,react,nodejs,ts,tailwind,redux,java,nextjs,py,mysql,postgresql,go,supabase,jest,cypress,nestjs)](https://skillicons.dev)
 
 **Tools 🛠️**
 
